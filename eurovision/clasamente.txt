@@ -1,0 +1,5 @@
+Rusia Rusia Romania Moldova
+Bulgaria Romania Moldova Ucraina
+Ucraina Moldova Romania Bulgaria
+Moldova Romania Bulgaria Ucraina
+Romania Moldova Bulgaria Ucraina 

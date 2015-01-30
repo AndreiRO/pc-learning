@@ -1,0 +1,5 @@
+input/i1.txt 1 30000
+input/i2.txt 2 1546
+input/i3.txt 1700 12344
+input/i1.txt 20000 50
+
